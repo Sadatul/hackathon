@@ -6,7 +6,7 @@ This project utilizes `Jest, Github Actions, Open Telemetry tracing, Docker, Kub
 
 ## System Diagram
 <p align='center'>
-<img alt="VaxHub" src="assets/Architecture.png" />
+<img alt="Image" src="assets/Architecture.png" />
 </p>
 
 ## Table of Contents
@@ -191,14 +191,14 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Repository
 
 All the repositories are as follow:
-[gateway](https://github.com/Sadatul/hackathon_gateway)
-[otp](https://github.com/Sadatul/hackathon_otp)
-[authservice](https://github.com/Sadatul/hackathon_authservice)
-[train_query](https://github.com/Sadatul/hackathon_train_query)
-[booking_service](https://github.com/Sadatul/hackathon_booking_service)
-[payment_service](https://github.com/Sadatul/hackathon_payment_service)
-[booking](https://github.com/Sadatul/hackathon_booking)
-[IaC](https://github.com/Sadatul/hacakathon_IaC)
+[gateway](https://github.com/Sadatul/hackathon_gateway),
+[otp](https://github.com/Sadatul/hackathon_otp),
+[authservice](https://github.com/Sadatul/hackathon_authservice),
+[train_query](https://github.com/Sadatul/hackathon_train_query),
+[booking_service](https://github.com/Sadatul/hackathon_booking_service),
+[payment_service](https://github.com/Sadatul/hackathon_payment_service),
+[booking](https://github.com/Sadatul/hackathon_booking),
+[IaC](https://github.com/Sadatul/hacakathon_IaC),
 [frontend](https://github.com/hasnainadil/hackathon-frontend24.git)
 
 
